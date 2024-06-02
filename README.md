@@ -1,1 +1,3 @@
-# Machine_Learning
+# Machine Learning Projects
+
+Jedha Ceritifcation - Bloc 3 
