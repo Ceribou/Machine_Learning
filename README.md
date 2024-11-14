@@ -1,3 +1,3 @@
 # Machine Learning Projects
 
-Jedha Ceritifcation - Bloc 3 
+This repository features machine learning projects covering both supervised and unsupervised techniques. Each project includes data preparation, model building, and evaluation, with clear explanations and visualizations.
